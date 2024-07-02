@@ -677,3 +677,22 @@
 }
 
 /*** Footer End ***/
+
+
+@media (max-width:500px) {
+.carousel-control-prev{
+display: none;
+}
+.carousel-control-next{
+display: none;
+}
+.carousel-indicators{
+    display: none;
+}
+.carousel-content-btn1{
+    margin: 10px;
+}
+.carousel-content-btn2{
+    margin: 10px;
+}
+}
