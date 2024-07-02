@@ -1,5 +1,17 @@
 /*** Spinner Start ***/
 
+::-webkit-scrollbar{
+    width: 15px;
+    height: 5rem;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #FF7F3E;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: #604CC3;
+
+}
 #spinner {
     opacity: 0;
     visibility: hidden;
