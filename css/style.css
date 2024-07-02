@@ -310,6 +310,7 @@
 }
 
 .page-header {
+    width: 50%;
     background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url(../img/carousel-1.jpg) center center no-repeat;
     background-size: cover;
 }
@@ -690,9 +691,12 @@ display: none;
     display: none;
 }
 .carousel-content-btn1{
-    margin: 10px;
 }
 .carousel-content-btn2{
-    margin: 10px;
+    margin: 5px 0 0 0;
+}
+.paragha{
+    margin: 0;
+    padding: 0;
 }
 }
